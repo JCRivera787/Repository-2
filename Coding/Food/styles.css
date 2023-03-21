@@ -1,0 +1,66 @@
+
+h1{
+    color: greenyellow;
+   border: 10px solid rgb(255, 98, 7);
+   background: brown;
+}
+
+
+
+#Title1{
+    border: 5px solid;
+    background: orangered;
+    width: 700px;
+}
+
+#Title2 { 
+    border: 5px solid;
+    background: yellow;
+    width: 700px;
+   
+}
+
+div.content1{
+    margin: 30px;
+    align-items: center;
+
+}
+
+#Box1{
+    border: 3px solid;
+    width: 250px;
+    height: 250px;
+    background: rgb(0, 204, 255);
+}
+
+#Box2{
+    border: 3px solid;
+    width: 250px;
+    height: 250px;
+    background: orange;
+    display: inline-block;
+}
+
+#Box3{
+    border: 3px solid;
+    width: 250px;
+    height: 250px;
+    background: yellowgreen;
+    
+}
+#Box4{
+    border: 3px solid;
+    width: 250px;
+    height: 250px;
+    background: red    
+}
+
+div.content2{
+    margin: 30px;
+    display: inline-block;
+    
+}
+img{
+    margin: 30px;
+    padding: 2px;
+}
